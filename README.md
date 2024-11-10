@@ -3,7 +3,7 @@
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreislavrov&show_icons=true&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?andreislavrov=vn7n24fzkq&theme=default)
+![Top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?andreislavrov=vn7n24fzkq&theme=default)
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
