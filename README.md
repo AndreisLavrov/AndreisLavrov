@@ -8,14 +8,14 @@
 ## Languages and tools
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)](https://github.com/andreislavrov/OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Access_Control_Bot_Java)](https://github.com/andreislavrov/OpenSource_Access_Control_Bot_Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Python_Analysis_SportsEarningDataset_FirstYearHSE)](https://github.com/andreislavrov/Python_Analysis_SportsEarningDataset_FirstYearHSE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=C_PlusPlus_Project_Qt_FirstYearHSE)](https://github.com/andreislavrov/C_PlusPlus_Project_Qt_FirstYearHSE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin&theme=github_dark)](https://github.com/andreislavrov/OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Access_Control_Bot_Java&theme=github_dark)](https://github.com/andreislavrov/OpenSource_Access_Control_Bot_Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Python_Analysis_SportsEarningDataset_FirstYearHSE&theme=github_dark)](https://github.com/andreislavrov/Python_Analysis_SportsEarningDataset_FirstYearHSE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=C_PlusPlus_Project_Qt_FirstYearHSE&theme=github_dark)](https://github.com/andreislavrov/C_PlusPlus_Project_Qt_FirstYearHSE)
 
 ## Courses
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=HSE_Financial_Engineering)](https://github.com/andreislavrov/HSE_Financial_Engineering)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Yandex-Practicum-Product-Analytics)](https://github.com/andreislavrov/Yandex-Practicum-Product-Analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=HSE_Financial_Engineering&theme=github_dark)](https://github.com/andreislavrov/HSE_Financial_Engineering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Yandex-Practicum-Product-Analytics&theme=github_dark)](https://github.com/andreislavrov/Yandex-Practicum-Product-Analytics)
 
 ## Stats
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreislavrov&theme=github_dark)
