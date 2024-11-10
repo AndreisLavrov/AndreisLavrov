@@ -3,7 +3,7 @@
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreislavrov&show_icons=true&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreislavrov&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreislavrov&theme=github_dark)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 **AndreisLavrov/AndreisLavrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
