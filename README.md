@@ -1,7 +1,7 @@
 ## Всем привет! 👋 Меня зовут Андрей
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreislavrov&show_icons=true&theme=radical)
 <!--
 **AndreisLavrov/AndreisLavrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
