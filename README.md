@@ -7,7 +7,9 @@
 ## Languages and tools
 
 ## Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)](https://github.com/andreislavrov/OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)](https://github.com/andreislavrov/OpenSource_Service_with_FPS_RaiffaisenBank_DonCoin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Python_Analysis_SportsEarningDataset_FirstYearHSE)](https://github.com/andreislavrov/Python_Analysis_SportsEarningDataset_FirstYearHSE)
 ## Courses
 
 ## Stats
