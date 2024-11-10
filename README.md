@@ -1,7 +1,7 @@
 ## Всем привет! 👋 Меня зовут Андрей
 
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreislavrov&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreislavrov&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreislavrov&theme=github_dark)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
