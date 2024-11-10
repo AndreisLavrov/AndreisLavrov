@@ -12,7 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Python_Analysis_SportsEarningDataset_FirstYearHSE)](https://github.com/andreislavrov/Python_Analysis_SportsEarningDataset_FirstYearHSE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=C_PlusPlus_Project_Qt_FirstYearHSE)](https://github.com/andreislavrov/C_PlusPlus_Project_Qt_FirstYearHSE)
 ## Courses
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=HSE_Financial_Engineering)](https://github.com/andreislavrov/HSE_Financial_Engineering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreislavrov&repo=Yandex-Practicum-Product-Analytics)](https://github.com/andreislavrov/Yandex-Practicum-Product-Analytics)
 ## Stats
 
 ![img](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreislavrov&theme=github_dark)
