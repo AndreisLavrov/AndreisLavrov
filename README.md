@@ -6,7 +6,7 @@
 [![cv](https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=Read.cv&logoColor=white)](https://github.com/AndreisLavrov/AndreisLavrov/blob/master/CV_Andrei_Lavrov%20(11_2024).pdf)
 
 ## Languages and tools
-<div align="center">
+<div>
  <table>
   <tr>
    <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></td>
