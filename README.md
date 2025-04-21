@@ -3,7 +3,7 @@
 ## Links
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreislavrov@gmail.com)
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrei_lavrov)
-[![cv](https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=Read.cv&logoColor=white)](https://github.com/AndreisLavrov/AndreisLavrov/blob/master/CV_Andrei_Lavrov%20(11_2024).pdf)
+[![cv](https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=Read.cv&logoColor=white)](https://github.com/AndreisLavrov/AndreisLavrov/blob/master/CV_Andrei_Lavrov.pdf)
 
 ## Languages and tools
 <div>
